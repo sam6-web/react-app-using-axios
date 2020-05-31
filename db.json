@@ -1,0 +1,16 @@
+{
+  "posts": [
+    {
+      "title": "abdallah",
+      "id": 3
+    },
+    {
+      "title": "aze",
+      "id": 4
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
